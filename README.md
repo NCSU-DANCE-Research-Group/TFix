@@ -1,2 +1,2 @@
 # TFix
-Each folder is one module of TFix
+Each folder is one module of TFix.
